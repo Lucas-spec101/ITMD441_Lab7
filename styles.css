@@ -24,6 +24,11 @@ body {
   margin: 40px auto;
 }
 
+body.dark{
+  background-color: #111827;
+  color: #f1f5f9;
+}
+
 h1 {
   color: #510f94;
 }
